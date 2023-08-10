@@ -4,11 +4,11 @@
 <p>My focus is to continue to develop myself in the Data Science discipline, having a background in Data Analytics. However, I 'm also excited to explore and learn more about other aspects of Data Science, such as Data Engineering and Data Scientist work.</p>
 
 ⚡Short facts
-<ul type="circle" style="margin-top:-1rem;"> 
+<ul type="circle"> 
     <li> 💻 OS frequently: 𝑼𝒃𝒖𝒏𝒕𝒖 </li>
     <li> 💬 My languages: 𝑺𝒑𝒂𝒏𝒊𝒔𝒉 and 𝑬𝒏𝒈𝒍𝒊𝒔𝒉 </li>
-    <li> 📚 Current learning: 𝑷𝒂𝒏𝒅𝒂𝒔, 𝑻𝒌𝒏𝒊𝒏𝒕𝒆𝒓 and more </li>
-	<li> 💼 Other development areas: 𝑺𝒐𝒇𝒕𝒘𝒂𝒓𝒆 𝒆𝒏𝒈𝒊𝒏𝒆𝒆𝒓𝒊𝒏𝒈 and 𝒑𝒓𝒐𝒋𝒆𝒄𝒕 𝒎𝒂𝒏𝒂𝒈𝒆𝒓</li>
+    <li> 📚 Current learning: 𝑷𝒂𝒏𝒅𝒂𝒔, 𝑻𝒌𝒊𝒏𝒕𝒆𝒓 and more </li>
+    <li> 💼 Other development areas: 𝑺𝒐𝒇𝒕𝒘𝒂𝒓𝒆 𝒆𝒏𝒈𝒊𝒏𝒆𝒆𝒓𝒊𝒏𝒈 and 𝒑𝒓𝒐𝒋𝒆𝒄𝒕 𝒎𝒂𝒏𝒂𝒈𝒆𝒓</li>
 </ul>
 <br>
 
