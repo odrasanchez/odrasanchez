@@ -1,7 +1,7 @@
 <img src="./resources/OdraSanchez-Banner.png"> 
 <h2 align="center">Ｈｅｌｌｏ ｃｏｍｍｕｎｉｔｙ 👋</h2>
-<p>Coding is my passion, I dedicate my learning to the computer area achieving my goal of becoming a Computer Systems Engineer. Currently I'm a web and software developer.</p>
-<p>My focus is to continue to develop myself in the Data Science discipline, having a background in Data Analytics. However, I 'm also excited to explore and learn more about other aspects of Data Science, such as Data Engineering and Data Scientist work.</p>
+<p>The code is my passion, and I have dedicated my learning to computing, achieving my goal of studying Computer Systems Engineering. </p>
+<p>My current goal is to continue advancing in the field of Data Science, taking advantage of my knowledge of Data Analysis as a starting point. I am excited to explore and learn more about Data Science, such as Data Engineering and the Data Scientist profile.</p>
 
 ⚡Short facts
 <ul type="circle"> 
