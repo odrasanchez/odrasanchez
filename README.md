@@ -68,7 +68,6 @@
 
 #### 🌱 Siempre aprendiendo
 Estoy constantemente aprendiendo y mejorando, actualmente explorando:
-- **Diseño de UX / UI**
 - **PHP**
 - **Dirección de proyectos**.
 - **Visión por computadora**
