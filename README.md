@@ -68,14 +68,13 @@
 
 #### 🌱 Siempre aprendiendo
 Estoy constantemente aprendiendo y mejorando, actualmente explorando:
-- **PHP**
-- **Dirección de proyectos**.
-- **Visión por computadora**
+- **Diplomado en Excel**
+- **PHP desde cero**
+- **Dirección de proyectos**
 <br>
 
 ####  🎨 Te cuento un poquito de mi
 - Me gusta dibujar y crear personajes en mi tiempo libre.
 - Leer libros de ciencia ficción 🔍 , novelas ❣️ y sobre historia 🦕.
-<!-- - Apasionada de la música (Te comparto una lista de mi música fav: <a href=""> ![Mysite](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)</a>) -->
 - Colores fav: 💜 , 🖤 y 💙
 - Me gusta apoyar a causas sociales y negocios pequeños
