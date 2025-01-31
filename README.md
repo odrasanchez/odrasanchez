@@ -52,38 +52,42 @@ Mi enfoque se centra en ofrecer una navegación fluida, mejorando continuamente 
 <br>
 
 ### 🎯 Proyectos Destacados
-1. **[Fundamentos-Python](https://github.com/odrasanchez/Fundamentos-Python)**  
+1. **Fundamentos-Python**  
    Colección de proyectos y ejercicios básicos para practicar los fundamentos de Python.
    - Stack: **Python**, **VSCode**
    - Enlace: [Repositorio](https://github.com/odrasanchez/Fundamentos-Python)
 
-2. **[Fundamentos-JavaScript](https://github.com/odrasanchez/Fundamentos-JavaScript)**  
+2. **Fundamentos-JavaScript**  
    Colección de proyectos y ejercicios básicos para practicar los fundamentos de JavaScript.
    - Stack: **JavaScript**, **VSCode**
    - Enlace: [Repositorio](https://github.com/odrasanchez/Fundamentos-JavaScript)
 
 <br>
-
-#### 🌱 Siempre aprendiendo
-Estoy constantemente aprendiendo y mejorando para aplicar mis habilidades y dar soporte a mi portafolio, actualmente explorando:
-- 📊 Power BI
-- 📌 JavaScript intermedio
-- 🔄 Scrum
-- 👥 GoHighLevel
-
-
 <br>
 
-#### 🧩 Mi construcción personal
-En mi tiempo libre me gusta desconectarme de los electrónicos y las redes sociales, aprovecho el tiempo para:
-- Leer libros de ciencia ficción 🔍 , novelas ❣️ y sobre historia 🦕.
-- Dedicar tiempo a mis mascotas 🐶🐱
-- Explora mi lista de música en el siguiente enlace 👇
+<table>
+  <tr>
+  <td><strong>🌱 Siempre aprendiendo</strong></td>
+  <td><strong>🧩 Mi construcción personal</strong></td>
+  </tr>
+  <tr>
+  <td> Estoy constantemente aprendiendo y mejorando para aplicar mis habilidades y dar soporte a mi portafolio, actualmente explorando:
+      <ul>
+        <li>📊 Power BI</li>
+        <li>📌 JavaScript intermedio</li>
+        <li>🔄 Scrum</li>
+        <li>👥 GoHighLevel</li>
+      </ul>
+    </td>
+    <td>
+      En mi tiempo libre me gusta desconectarme de los electrónicos y las redes sociales, aprovecho el tiempo para:
+      <ul>
+        <li>Leer libros de ciencia ficción 🔍, novelas ❣️ y sobre historia 🦕.</li>
+        <li>Dedicar tiempo a mis mascotas 🐶🐱</li>
+        <li>Explorar mi lista de música 👇 
+        <a href="https://youtube.com/playlist?list=PL8r3-h4pU4SeWCDYMNgvGnS-DMbp2k9Sn&si=oVDwiPSzkm4k7KCC&shuffle=1"><img src="https://img.shields.io/badge/My%20Favs%20🤍-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a></li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
-<br>
-
-<div align="center"> 
-   
-<a href="https://youtube.com/playlist?list=PL8r3-h4pU4SeWCDYMNgvGnS-DMbp2k9Sn&si=oVDwiPSzkm4k7KCC&shuffle=1"> ![YouTube](https://img.shields.io/badge/My%20Favs%20🤍-FF0000?style=for-the-badge&logo=youtube&logoColor=white)</a> 
-
-</div>
