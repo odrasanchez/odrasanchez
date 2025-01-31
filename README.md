@@ -71,7 +71,7 @@ Mi enfoque se centra en ofrecer una navegación fluida, mejorando continuamente 
   <td><strong>🧩 Mi construcción personal</strong></td>
   </tr>
   <tr>
-  <td> Estoy constantemente aprendiendo y mejorando para aplicar mis habilidades y dar soporte a mi portafolio, actualmente explorando:
+  <td> Estoy constantemente aprendiendo y mejorando para aplicar mis habilidades, actualmente explorando:
       <ul>
         <li>📊 Power BI</li>
         <li>📌 JavaScript intermedio</li>
