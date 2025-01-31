@@ -36,7 +36,6 @@ Mi enfoque se centra en ofrecer una navegación fluida, mejorando continuamente 
 
 ### 🚀 Tecnologías & Herramientas
 
-<h5 aling="center">Core</h5>
 <div align="center" style="display: inline_block">
 <img alt ="HTML5" aling=center width=60 height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
 <img  alt ="Tailwind" aling=center width=60 height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
@@ -49,18 +48,6 @@ Mi enfoque se centra en ofrecer una navegación fluida, mejorando continuamente 
 <img alt ="MySQL" aling=center width=60 height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" />
 <img alt ="JIRA" aling=center width=60 height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg" />
 </div>
-
-<br>
-
-<h5 aling="center">Otras herramientas</h5>
-
-- **Control de versiones**: <img alt ="Github" src="https://img.shields.io/badge/Github-141a3c?style=flat-square&logo=github&logoColor=white" />
-- **Ciencia de datos**: <img alt ="Spyder" src="https://img.shields.io/badge/Spyder-141a3c?style=flat-square&logo=spyderide&logoColor=white" /> <img alt ="R" src="https://img.shields.io/badge/R-141a3c?style=flat-square&logo=R&logoColor=white"/> <img alt ="RStudio" src="https://img.shields.io/badge/R_Studio-141a3c?style=flat-square&logo=RStudio&logoColor=white"/> <img alt ="Jypyter" src="https://img.shields.io/badge/Jupyter-141a3c?style=flat-square&logo=jupyter&logoColor=white"/> <img alt ="Pandas" src="https://img.shields.io/badge/Pandas-141a3c?style=flat-square&logo=pandas&logoColor=white"/> <img alt ="Pandas" src="https://img.shields.io/badge/Kaggle-141a3c?style=flat-square&logo=kaggle&logoColor=white"/>
-- **LaTex**: <img alt ="Overleaf" src="https://img.shields.io/badge/Overleaf-141a3c?style=flat-square&logo=Overleaf&logoColor=white"/>
-- **Programación**: <img alt ="C" src="https://img.shields.io/badge/C-141a3c?style=flat-square&logo=c&logoColor=white"/>
-- **Bases de datos**: <img alt ="SQL Server" src="https://img.shields.io/badge/SQL_Server-141a3c?style=flat-square&logo=microsoft-sql-server&logoColor=white"/>
-- **Creatividad**: <img alt ="Canva" src="https://img.shields.io/badge/Canva-141a3c?style=flat-square&logo=canva&logoColor=white"/>
-- **Organización y equipo**: <img alt ="Notion" src="https://img.shields.io/badge/Notion-141a3c?style=flat-square&logo=notion&logoColor=white"/> <img alt ="Slack" src="https://img.shields.io/badge/Slack-141a3c?style=flat-square&logo=slack&logoColor=white"/>
 
 <br>
 
