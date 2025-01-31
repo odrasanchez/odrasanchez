@@ -5,7 +5,7 @@
 <table>
   <tr>
     <td rowspan="2" width="150">
-      <img src="URL_DE_TU_FOTO" width="150" style="border-radius: 50%;">
+      <img src="./resources/OdraSanchez_WebDeveloper.png" width="150" style="border-radius: 50%;">
     </td>
    
   </tr>
