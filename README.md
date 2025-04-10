@@ -4,12 +4,6 @@
 
 <table>
   <tr>
-    <td rowspan="2" width="150">
-      <img src="./resources/OdraSanchez_WebDeveloper.png" width="150" style="border-radius: 50%;">
-    </td>
-   
-  </tr>
-  <tr>
     <td>
       <p style="text-align: justify;">
         Soy Ing. en Sistemas Computacionales, apasionada por la tecnología y el desarrollo web. Me encanta enfrentar nuevos desafíos, aprender constantemente y crear soluciones prácticas. Disfruto colaborar con otros y aportar ideas innovadoras para hacer que los proyectos sean un éxito.
