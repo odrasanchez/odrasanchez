@@ -56,27 +56,3 @@ Mi enfoque se centra en ofrecer una navegación fluida, mejorando continuamente 
 
 <br>
 <br>
-
-<table>
-  <tr>
-  <td><strong>🌱 Siempre aprendiendo</strong></td>
-  <td><strong>🧩 Mi construcción personal</strong></td>
-  </tr>
-  <tr>
-  <td> Estoy constantemente aprendiendo y mejorando para aplicar mis habilidades, actualmente explorando:
-      <ul>
-        <li>📊 Power BI</li>
-        <li>📌 JavaScript intermedio</li>
-        <li>🔄 Scrum</li>
-        <li>👥 GoHighLevel</li>
-      </ul>
-    </td>
-    <td>
-      En mi tiempo libre me gusta desconectarme de los electrónicos y las redes sociales, aprovecho el tiempo para:
-      <ul>
-        <li>Leer libros de ciencia ficción 🔍, novelas ❣️ y sobre historia 🦕.</li>
-        <li>Dedicar tiempo a mis mascotas 🐶🐱</li>
-    </td>
-  </tr>
-</table>
-
