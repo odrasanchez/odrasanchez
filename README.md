@@ -76,9 +76,6 @@ Mi enfoque se centra en ofrecer una navegación fluida, mejorando continuamente 
       <ul>
         <li>Leer libros de ciencia ficción 🔍, novelas ❣️ y sobre historia 🦕.</li>
         <li>Dedicar tiempo a mis mascotas 🐶🐱</li>
-        <li>Explorar mi lista de música 👉 
-        <a href="https://youtube.com/playlist?list=PL8r3-h4pU4SeWCDYMNgvGnS-DMbp2k9Sn&si=oVDwiPSzkm4k7KCC&shuffle=1"><img src="https://img.shields.io/badge/My%20Favs%20🤍-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a></li>
-      </ul>
     </td>
   </tr>
 </table>
